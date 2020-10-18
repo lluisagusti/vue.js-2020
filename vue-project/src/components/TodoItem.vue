@@ -30,7 +30,7 @@ export default {
   text-decoration: line-through;
 }
 .del {
-  background: #ff2000;
+  background: #2bff00;
   color: #fff;
   border: none;
   padding: 5px 9px;
